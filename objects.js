@@ -10,4 +10,3 @@ function removeFromPlaylist(playlist, artistName) {
   return removeFromPlaylist;
 }
 
-removeFromPlaylist()
