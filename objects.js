@@ -1,1 +1,1 @@
-var playlist = { R Kelly: 'Remix to Ignition' }
+var playlist = { RKelly: 'Remix to Ignition' }
